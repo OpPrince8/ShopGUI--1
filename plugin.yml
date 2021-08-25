@@ -7,5 +7,5 @@ depend: ["EconomyAPI", "InvCrashFix"]
 
 commands:
   shop:
-    description: "buy items here!"
+    description: "opens shop!"
     permission: "use.shop.menu"
