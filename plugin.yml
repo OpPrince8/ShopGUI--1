@@ -1,8 +1,8 @@
 name: ShopGUI-
 main: ItzFabb\Shop\Main
-api: 3.0.0
-version: 6
-author: ItzFabb
+api: 3.22.2
+version: 7
+author: ItzFabb , updated by 
 depend: ["EconomyAPI", "InvCrashFix"]
 
 commands:
