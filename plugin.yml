@@ -1,6 +1,6 @@
 name: ShopGUI-
 main: ItzFabb\Shop\Main
-api: 3.22.2
+api: 3.00.0
 version: 7
 author: ItzFabb , Prince
 depend: ["EconomyAPI", "InvCrashFix"]
